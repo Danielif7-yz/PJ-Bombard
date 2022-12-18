@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This is a portfolio website for the Founder and Brand Ambassador of a US-based low-speed work truck company called eTRUCK LSV.
